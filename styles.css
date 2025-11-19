@@ -1,0 +1,16 @@
+/* Mettre le titre h1 en rouge */
+h1 {
+    color: red;
+}
+
+/* Mettre le titre h2 en vert */
+h2 {
+    color: green;
+}
+
+/* Forcer une liste numérotée (ol) à avoir un style propre */
+ol {
+    list-style-type: decimal;
+    margin-left: 20px;
+    padding-left: 20px;
+}
